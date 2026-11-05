@@ -1,4 +1,4 @@
-# Stanford Machine Learning Course Algorithms
+# Stanford Machine Learning
 
 This repository contains implementations of algorithms covered in the Stanford University Machine Learning course. It is designed to help reinforce concepts and provide practical coding examples.
 
@@ -75,32 +75,3 @@ The primary focus of this repository is to implement foundational machine learni
 - **Error Metrics**:
   - Includes Mean Squared Error (MSE) for evaluating model performance.
 
-## 🌟 Future Work
-
-- [ ] Polynomial Regression
-- [ ] Regularization (Ridge and Lasso)
-- [ ] Support Vector Machines (SVMs)
-- [ ] Neural Networks (Basic Implementation)
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit issues or pull requests to help improve the repository.
-
-1. Fork the repository.
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. Open a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
